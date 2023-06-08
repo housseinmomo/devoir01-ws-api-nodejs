@@ -1,0 +1,72 @@
+ID: 6c4d7907-93b0-40ed-bef5-63c0e7967f5c	 DateTime: 2023-02-27	10:38:22	 Message: Error: Not allowed by CORS
+ID: 2cefcd6e-7429-417a-92b2-25baf8e90457	 DateTime: 2023-02-27	10:38:23	 Message: Error: Not allowed by CORS
+ID: 40b2e1f5-8563-4c8a-a9c2-9d57f4097716	 DateTime: 2023-02-27	10:38:24	 Message: Error: Not allowed by CORS
+ID: eadf7f68-b063-4512-9d6a-51b8e3962485	 DateTime: 2023-02-27	10:39:04	 Message: Error: Not allowed by CORS
+ID: 3f66af1f-3e46-47fc-bebd-c80e523a92c2	 DateTime: 2023-02-27	16:59:31	 Message: TypeError: data.employees.find is not a function
+ID: c4a122b4-fad0-4d4e-8499-8481718edd8d	 DateTime: 2023-02-28	13:35:26	 Message: SyntaxError: Unexpected token } in JSON at position 32
+ID: 9c8de1f1-662d-4927-b2bb-59ec8dec2742	 DateTime: 2023-02-28	14:11:13	 Message: SyntaxError: Unexpected end of JSON input
+ID: cb4e8bca-1f82-4c1f-9bca-f229a7aa5e68	 DateTime: 2023-03-01	15:06:34	 Message: TypeError: authHeader?.startWith is not a function
+ID: abd67a50-962c-4530-9ccd-52eea4bde089	 DateTime: 2023-03-01	15:06:47	 Message: TypeError: authHeader?.startWith is not a function
+ID: 59771d98-a9c2-45a8-aeff-78448616cc95	 DateTime: 2023-03-01	18:24:09	 Message: TypeError: authHeader?.startWith is not a function
+ID: 3cd5fa13-b687-40e0-b098-fb57f74f176e	 DateTime: 2023-03-02	14:57:45	 Message: Error: Not allowed by CORS
+ID: e6aeadf3-b357-4e7c-bf03-fd16a9476afb	 DateTime: 2023-03-02	14:59:34	 Message: Error: Not allowed by CORS
+ID: c4bae3b8-2c90-447a-863f-bd6004c22f33	 DateTime: 2023-03-02	15:00:29	 Message: Error: Not allowed by CORS
+ID: 9e0d9082-2b10-4ae4-9cb8-c42a1d7b3f07	 DateTime: 2023-03-02	15:03:03	 Message: Error: Not allowed by CORS
+ID: 9424b1e0-3106-4deb-8cfb-cb7286120046	 DateTime: 2023-03-02	15:04:14	 Message: Error: Not allowed by CORS
+ID: b4cdc7ff-2d54-4347-bdea-80c27f6da72c	 DateTime: 2023-03-02	15:04:16	 Message: Error: Not allowed by CORS
+ID: 1e702620-eaf2-4ba5-8a4f-619748d78597	 DateTime: 2023-03-02	15:04:19	 Message: Error: Not allowed by CORS
+ID: 460d6e83-c335-450c-aef7-a6d73e3c33c8	 DateTime: 2023-03-02	15:09:25	 Message: Error: Not allowed by CORS
+ID: d68b13ca-1e67-45cc-935c-14f5dfc6c8d9	 DateTime: 2023-03-02	15:10:26	 Message: Error: Not allowed by CORS
+ID: 65ce98ae-b889-4da6-9fd2-d522024d1fe0	 DateTime: 2023-03-02	15:11:45	 Message: Error: Not allowed by CORS
+ID: 31cbefd3-cae7-4e7d-8f17-fe5dd1a3851b	 DateTime: 2023-03-02	15:12:50	 Message: Error: Not allowed by CORS
+ID: c2d531e4-5047-4e9f-a293-da6267aaaa00	 DateTime: 2023-03-02	15:12:50	 Message: Error: Not allowed by CORS
+ID: 7db2ea8a-6bfc-487a-a0a2-8926cbe38b77	 DateTime: 2023-03-02	15:12:53	 Message: Error: Not allowed by CORS
+ID: 6f2dcf38-229e-4e3b-9af9-7b85fed89e36	 DateTime: 2023-03-02	15:12:53	 Message: Error: Not allowed by CORS
+ID: 5324cbdf-bfdb-43d3-9f32-d3eb29266de3	 DateTime: 2023-03-02	15:12:54	 Message: Error: Not allowed by CORS
+ID: 6906941e-c439-4ee9-abe5-effcd77408c3	 DateTime: 2023-03-02	15:12:54	 Message: Error: Not allowed by CORS
+ID: c4b992fe-b80b-42ea-a794-0831daa5682a	 DateTime: 2023-03-02	15:12:55	 Message: Error: Not allowed by CORS
+ID: b47150a4-0231-4263-813d-95e7577eee03	 DateTime: 2023-03-02	15:12:55	 Message: Error: Not allowed by CORS
+ID: 79207413-475c-4aaa-9d8f-15510606b1c0	 DateTime: 2023-03-02	15:12:57	 Message: Error: Not allowed by CORS
+ID: 5d147974-0ac8-4b6c-95b9-d080ebe6bdae	 DateTime: 2023-03-02	15:12:57	 Message: Error: Not allowed by CORS
+ID: acec66c8-5f69-45a5-b904-77c29f9624eb	 DateTime: 2023-03-02	15:13:01	 Message: Error: Not allowed by CORS
+ID: 083a12ec-6f08-49d4-a5b2-97e1c5505da5	 DateTime: 2023-03-02	15:13:01	 Message: Error: Not allowed by CORS
+ID: 1a79cb18-b846-40dc-8344-fb71bdeb3a78	 DateTime: 2023-03-02	15:13:26	 Message: Error: Not allowed by CORS
+ID: 90b413d7-48e9-45e0-8116-af13e1db164b	 DateTime: 2023-03-02	15:13:26	 Message: Error: Not allowed by CORS
+ID: 836f3399-1d14-4aae-a3c1-1352ba469a8f	 DateTime: 2023-03-02	15:13:27	 Message: Error: Not allowed by CORS
+ID: 2820e369-3c7d-4766-b71c-fa2ff6780932	 DateTime: 2023-03-02	15:13:27	 Message: Error: Not allowed by CORS
+ID: 175b8504-822b-4fb2-a52c-1ee446baa436	 DateTime: 2023-03-02	15:13:34	 Message: Error: Not allowed by CORS
+ID: 92926c92-0421-440a-833a-0689e36ba080	 DateTime: 2023-03-02	15:19:01	 Message: Error: Not allowed by CORS
+ID: 3854a31b-1786-4fef-8f6b-fe96f6a13037	 DateTime: 2023-03-02	15:20:35	 Message: Error: Not allowed by CORS
+ID: e9a19685-a9d1-4242-b2bc-b3ffb880d8c5	 DateTime: 2023-03-02	15:28:07	 Message: Error: Not allowed by CORS
+ID: 5d72aabc-256d-4d34-928b-6476535ee479	 DateTime: 2023-03-02	15:31:24	 Message: Error: Not allowed by CORS
+ID: a5a19f51-66a2-434b-a630-f3457619e3f6	 DateTime: 2023-03-02	15:36:44	 Message: Error: Not allowed by CORS
+ID: 4390299f-99c2-4f01-81d7-3c243eceb103	 DateTime: 2023-03-02	15:42:59	 Message: Error: Not allowed by CORS
+ID: 140102c2-d373-4b56-9d74-b510a45ffa43	 DateTime: 2023-03-02	15:44:50	 Message: Error: Not allowed by CORS
+ID: 8e2364c0-70af-4aa7-8af8-b8e237b92613	 DateTime: 2023-03-02	15:45:10	 Message: Error: Not allowed by CORS
+ID: f80490b3-8c13-4c3e-806e-bc07b6968ade	 DateTime: 2023-03-02	15:47:01	 Message: Error: Not allowed by CORS
+ID: 23ee8e57-0906-415a-9582-ec645273e001	 DateTime: 2023-03-02	15:52:16	 Message: Error: Not allowed by CORS
+ID: c19b83a4-6caf-469d-b2f6-b04d9fbaa4d0	 DateTime: 2023-03-02	16:08:33	 Message: Error: Not allowed by CORS
+ID: dd9eb51c-2620-4f5f-b984-9a1c6406d327	 DateTime: 2023-03-02	16:13:27	 Message: Error: Not allowed by CORS
+ID: 8208481d-2a7f-4c5f-ad3a-587c69721d00	 DateTime: 2023-03-02	16:14:07	 Message: Error: Not allowed by CORS
+ID: 153bd08b-363c-485f-996e-7d81a007612d	 DateTime: 2023-03-02	16:17:07	 Message: Error: Not allowed by CORS
+ID: 1f6393ea-74ea-4e85-bf19-5bb4e10a4d6f	 DateTime: 2023-03-02	16:18:00	 Message: Error: Not allowed by CORS
+ID: da249cac-e479-42c9-9424-a6b842f323d0	 DateTime: 2023-03-02	16:18:00	 Message: Error: Not allowed by CORS
+ID: a487953a-1327-487c-98d1-d2b8816d8f7e	 DateTime: 2023-03-02	18:41:32	 Message: TypeError: Cannot read properties of undefined (reading 'headers')
+ID: bb22f8db-5210-4dd9-adae-04eb5140dd77	 DateTime: 2023-03-02	18:42:37	 Message: TypeError: Cannot read properties of undefined (reading 'headers')
+ID: 55e83dc1-3b46-491e-8a8b-b28c473d8042	 DateTime: 2023-03-02	18:45:05	 Message: TypeError: Cannot read properties of undefined (reading 'headers')
+ID: f2645653-e11f-4d3f-b599-7514efd66137	 DateTime: 2023-03-02	18:46:08	 Message: TypeError: Cannot read properties of undefined (reading 'headers')
+ID: eb150541-0ad8-4c92-8866-89cb1ad25459	 DateTime: 2023-03-04	12:34:42	 Message: TypeError: res.headers is not a function
+ID: c5f9163d-e072-44fe-89af-e81b6f58313f	 DateTime: 2023-03-04	12:35:51	 Message: TypeError: res.headers is not a function
+ID: d17bb4ed-e1a2-43c1-a304-f076a661e3ce	 DateTime: 2023-03-04	12:38:32	 Message: TypeError: res.headers is not a function
+ID: 5aaf36e8-d622-41af-857f-33524327e5bb	 DateTime: 2023-03-04	12:39:16	 Message: TypeError: req.headers is not a function
+ID: 28a9919e-09c0-4d76-8616-320111a56523	 DateTime: 2023-03-04	12:40:00	 Message: TypeError: Cannot read properties of undefined (reading 'origin')
+ID: 81e0f41d-2942-4563-814c-9cceda0f4255	 DateTime: 2023-03-04	12:40:57	 Message: TypeError: res?.headers is not a function
+ID: abf3521e-3b24-4f44-9f4a-05ae4ccf8399	 DateTime: 2023-03-04	12:55:20	 Message: Error: Not allowed by CORS
+ID: 6c1cd6c9-3648-4aa6-a789-85a816f7b2d2	 DateTime: 2023-03-04	12:57:02	 Message: Error: Not allowed by CORS
+ID: 48053dec-345f-421c-a682-b1d5346bbd40	 DateTime: 2023-03-04	12:57:36	 Message: Error: Not allowed by CORS
+ID: 8a01de3f-cbf5-4acc-b5de-2820da5529b2	 DateTime: 2023-03-12	21:19:58	 Message: TypeError: authHeader?.startWith is not a function
+ID: bbcc01d1-3dc3-4786-8a1a-7e427c91afa1	 DateTime: 2023-03-12	21:20:14	 Message: TypeError: authHeader?.startWith is not a function
+ID: bff22f1c-c71f-4ca8-87d4-09b053832efb	 DateTime: 2023-03-12	21:20:30	 Message: TypeError: authHeader?.startWith is not a function
+ID: 6cd22050-bf69-44b4-8c32-aba78e371ada	 DateTime: 2023-03-12	21:21:00	 Message: TypeError: authHeader?.startWith is not a function
+ID: 046ba7ad-c9c4-40f7-ae2a-1577c16ce3a7	 DateTime: 2023-03-12	21:21:09	 Message: TypeError: authHeader?.startWith is not a function
+ID: 267faa8c-fff2-47fa-93b3-e6336653e233	 DateTime: 2023-03-12	21:23:13	 Message: TypeError: authHeader?.startWith is not a function
